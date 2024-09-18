@@ -12,9 +12,10 @@
 ## Getting Started
 -To set up the project on your local machine, follow the steps below.
 ## Prerequisites
- -Make sure you have the following installed:
--Node.js
--Git
+Make sure you have the following installed:
+- [Node.js](https://nodejs.org/en/)
+ -Node.js
+ -Git
 ## Navigate to the Project Directory:
 -cd signup-page
 ## install Dependencies:
@@ -23,3 +24,6 @@
 -node app.js
 ## Open the App in Your Browser:
 -Go to http://localhost:3000
+## Acknowledgements
+-Node.js for the backend framework.
+-Express.js for handling HTTP requests.
