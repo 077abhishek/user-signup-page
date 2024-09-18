@@ -1,4 +1,4 @@
-## User Sign-up Page Project
+## User page for signup :
 -This project is a straightforward user sign-up page that allows users to create accounts by entering personal details. User data is stored in a JSON file. It showcases fundamental web development skills using HTML, CSS, JavaScript, and Node.js.
 # Key Features
 -User registration form
